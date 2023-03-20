@@ -1,5 +1,2 @@
-* `Tecnativa <https://www.tecnativa.com>`_:
-
-    * Sergio Teruel
-    * David Vidal
-    * Alexandre Díaz
+* Sergio Teruel <sergio.teruel@tecnativa.com>
+* David Vidal <david.vidal@tecnativa.com>
